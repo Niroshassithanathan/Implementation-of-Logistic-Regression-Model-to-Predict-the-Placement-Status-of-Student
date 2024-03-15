@@ -93,37 +93,47 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 ## Output:
 HEAD OF THE DATA :
+![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/7d867b1d-1942-4470-9f16-04d988bfa01f)
 
 
 COPY HEAD OF THE DATA:
-image
+![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/ee207f05-2131-4252-a6e2-9873c0e8fc31)
 
 NULL AND SUM :
-image
+![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/ed6a419e-b440-472d-9642-d727d9b1aa40)
+
 
 DUPLICATED :
-image
+![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/db3edf6f-b7fb-4fb7-baec-3876067018fe)
+
 
 X VALUE:
-image
+![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/bfdff9f8-af25-422d-bad8-f4457e8349f0)
+
+![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/2d6918db-40bc-449c-996c-0dee1d59b15c)
 
 Y VALUE :
-image
+![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/e8c8654f-a62d-4189-b6a1-071b36e38364)
+
 
 PREDICTED VALUES :
-image
+![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/98ceef5f-abf1-4c1a-a7a8-2f3c3eab8df4)
+
 
 ACCURACY :
-image
+![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/4aab5c65-7fd9-400d-b1d7-4abf36c1ff94)
 
 CONFUSION MATRIX :
-image
+![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/ba0a17b6-89fb-4526-b20c-e8b1a315f2da)
+
 
 CLASSIFICATION REPORT :
-image
+![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/b0c48ca8-2cbf-4d5f-bd44-cf68771d804e)
+
 
 Prediction of LR :
-image
+![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/1f4c078d-e713-4589-bf0c-7db945821f3e)
+
 
 Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
