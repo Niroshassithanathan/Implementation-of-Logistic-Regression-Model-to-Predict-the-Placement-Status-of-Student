@@ -144,5 +144,5 @@ Prediction of LR :
 ![image](https://github.com/Niroshassithanathan/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/121418437/1f4c078d-e713-4589-bf0c-7db945821f3e)
 
 
-Result:
+## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
